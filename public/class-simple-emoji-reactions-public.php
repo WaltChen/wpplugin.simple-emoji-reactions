@@ -61,13 +61,13 @@ class Simple_Emoji_Reactions_Public {
 		$this->plugin_name = $plugin_name;
 		$this->version = $version;
 		$this->emojis = array(
+			':thumbdown:',
 			':thumbsup:',
-			':heart:',
-			':joy:',
 			':heart_eyes:',
-			':blush:',
-			':cry:',
-			':rage:',
+			':confounded:',
+			':astonished:',
+			':thinking:',
+			':disappointed:',
 		);
 
 		$this->ajax_register_action();
