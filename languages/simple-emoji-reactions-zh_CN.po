@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 "Project-Id-Version: Simple Emoji Reactions\n"
-"POT-Creation-Date: 2016-07-09 21:22+0200\n"
-"PO-Revision-Date: 2016-11-29 23:46+0800\n"
+"POT-Creation-Date: 2016-11-29 22:49+0800\n"
+"PO-Revision-Date: 2016-11-29 23:45+0800\n"
 "Language-Team: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -16,26 +16,26 @@ msgstr ""
 "esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
 "_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
 "Last-Translator: \n"
-"Language: en\n"
+"Language: zh_CN\n"
 "X-Poedit-SearchPath-0: .\n"
 "X-Poedit-SearchPathExcluded-0: *.js\n"
 
 #: public/partials/simple-emoji-reactions-public-display.php:34
 #, php-format
 msgid "% feel"
-msgstr "% feel"
+msgstr ""
 
 #: public/partials/simple-emoji-reactions-public-display.php:36
 msgid "Nobody had feels yet"
-msgstr "Nobody had feels yet"
+msgstr "还没人发表观点"
 
 #: public/partials/simple-emoji-reactions-public-display.php:38
 msgid "And how do you feel?"
-msgstr "And how do you feel?"
+msgstr "您对本文的观点？"
 
 #. Plugin Name of the plugin/theme
 msgid "Simple Emoji Reactions"
-msgstr ""
+msgstr "简单表情反馈"
 
 #. Plugin URI of the plugin/theme
 msgid "https://github.com/cubetech/wpplugin.simple-emoji-reactions"
@@ -45,7 +45,7 @@ msgstr ""
 msgid ""
 "This is a short description of what the plugin does. It's displayed in the "
 "WordPress admin area."
-msgstr ""
+msgstr "简单的表情反馈插件"
 
 #. Author of the plugin/theme
 msgid "cubetech GmbH"
@@ -57,28 +57,28 @@ msgstr ""
 
 #. Emoji
 msgid "thumbdown"
-msgstr "thumb down"
+msgstr "我踩"
 
 #. Emoji
 msgid "thumbsup"
-msgstr "thumbs up"
+msgstr "我顶"
 
 #. Emoji
 msgid "heart_eyes"
-msgstr "awesome"
+msgstr "超喜欢"
 
 #. Emoji
 msgid "confounded"
-msgstr "confounded"
+msgstr "困惑"
 
 #. Emoji
 msgid "astonished"
-msgstr "astonished"
+msgstr "新奇"
 
 #. Emoji
 msgid "thinking"
-msgstr "thinking"
+msgstr "思考"
 
 #. Emoji
 msgid "disappointed"
-msgstr "disappointed"
+msgstr "失望"
